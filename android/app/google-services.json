@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513185820000",
+    "project_id": "akesocial-1e539",
+    "storage_bucket": "akesocial-1e539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513185820000:android:dbe0b89ff46a3f72b7c205",
+        "android_client_info": {
+          "package_name": "com.meanakorn.akesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513185820000-ij6fj9la5p0d0h8qfmiqee8g6scu5ga1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AyPCiarPPEMN27_fbJcVs6GzwZ9H_pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513185820000-ij6fj9la5p0d0h8qfmiqee8g6scu5ga1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
